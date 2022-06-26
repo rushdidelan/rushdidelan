@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rushdidelan
 - 👀 I’m interested in developing intelligent/conscious? functional systems which can be manipulated within its own material domain in conjuction with threshold driven values or stimuli driven systems. Further these systems will compose and derive new generation of sustainable systems. 
 - Eg:- Oxide network with a range of its maximum energy density upon intercalation/de-intercalation (charge/discharge) that can prepare for its regeneration from itself or external stimuli for the easiness of recyclability after its endcycle.
-- 🌱 I’m currently learning data driven material systems - Evaluate biodegradation prediction models using experiemtnal data. Surrogate modelling for contamination. 
+- 🌱 I’m currently learning data driven material systems - Evaluate biodegradation prediction models using experiemtnal data. Surrogate modelling for contamination, Li-ion battery cathode material recycling modules- Hydrometallurgy, organic acid leaching, selective precipitation. 
 - 💞️ 
 - 📫 
 
